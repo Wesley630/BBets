@@ -102,3 +102,8 @@ Manipulating a mean equivalent to 0 is challenging, but with odds of 4.454545, i
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+If Professor Brownlow is consistently making or losing money, he can adjust his payout to center his profits on zero. He can do this by manipulating the odds offered in his bet. As shown in the previous analysis, the odds of 4.454545 bring the mean close to zero. By fine-tuning the odds, he can find the ideal balance that results in neither significant profit nor loss.
+
+Regarding class size, our analysis has shown that a class size of 28 would make the 2:1 bet fair, with Brownlow's earnings close to zero. To maintain a zero-profit scheme with his current betting strategy, he should consider adjusting the class size to 28 students.
+
+In conclusion, by altering the odds and adjusting the class size, Professor Brownlow can modify his betting strategy to achieve a balanced outcome with zero profit. This ensures fairness in the betting game, while still engaging students in an interesting mathematical problem.
