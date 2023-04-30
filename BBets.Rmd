@@ -85,12 +85,18 @@ The average equivalent to 0 is challenging to manage, but with the probability o
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting profits!-->
 
+```{r}
+teacher <- numeric(40) 
+for(i in 1:40) {
+teacher[i]=BrLw(numClass=28)
 
 
 
+}
+favstats(teacher)
+```
 
-
-
+Manipulating a mean equivalent to 0 is challenging, but with odds of 4.454545, it is possible to achieve a mean that is a negative number very near to 0. Owing to this negative number, Brownlow would mostly lose money, resulting in zero earnings.
 
 # Discussion and Conclusion
 
